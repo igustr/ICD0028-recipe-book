@@ -1,3 +1,2 @@
 # Recipe Book
-- Salad
-- Solyanka
+- Borscht
